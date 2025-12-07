@@ -16,17 +16,7 @@
 
 ---
 
-## 📊 GitHub Stats
 
-<div align="center">
-
-<!-- Main Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=akyrby&show_icons=true&hide_border=true" height="160" />
-
-<!-- Most used languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akyrby&layout=compact&hide_border=true" height="160" />
-
-</div>
 
 ---
 
