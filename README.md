@@ -31,6 +31,7 @@
 ---
 
 ## 📫 Contact
-- Instagram: *sem doplníš*  
-- Email: *sem doplníš*
+- Instagram: [![Instagram](https://img.shields.io/badge/Instagram-Profile-blueviolet?logo=instagram&logoColor=white)](https://www.instagram.com/mathewsphotopov/)
+  
+- Email: sobotma1@uhk.cz
 
