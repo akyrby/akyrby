@@ -12,7 +12,7 @@
 - 🐍 Python nadšenec – API, GUI (Tkinter), automatizace  
 - 📸 Street fotograf (1 rok zkušeností)  
 - 🧭 Rád cestuju za projekty i focením  
-- 🛠 Právě: tvorba **calendar synceru** (Google Calendar + IS/STAG)
+- 🛠 Právě: práce na školních projektech
 
 ---
 
