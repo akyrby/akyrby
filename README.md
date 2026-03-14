@@ -9,8 +9,8 @@
 
 ## 🧑‍💻 About Me
 - 🎓 Student aplikované informatiky na UHK FIM
-- 🐍 Python nadšenec – API, GUI (Tkinter), automatizace  
-- 📸 Street fotograf (1 rok zkušeností)  
+- 🐍 Python nadšenec – API, Django
+- 📸 Street fotograf   
 - 🧭 Rád cestuju za projekty i focením  
 - 🛠 Právě: práce na školních projektech
 
